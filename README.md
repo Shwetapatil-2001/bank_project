@@ -1,1 +1,1 @@
-# bank_project
+# Bank Management System Project
